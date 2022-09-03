@@ -4,6 +4,8 @@ MSP-430-EXP430F5529LP
 
 UTILIZADO: DISPLAY CRISTAL LIQUIDO (LCD 16X02 - AZ/BR) COM MODULO I2C
 
+IDE: Code Composer Studio 11.2.0.00007 
+
 https://www.huinfinito.com.br/modulos/1182-display-cristal-liquido-lcd-16x02-azbr-com-modulo-i2c.html
 
 Necessario fazer o ajuste de contraste para o texto aparecer
